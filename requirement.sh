@@ -1,3 +1,6 @@
-z="
-";dz='logo';mz='Bhai';Nz='.git';BBz='> Py';CBz='thon';Fz='r ex';HBz='/lan';Rz='nt.c';Kz=' htt';Sz='om/B';Ez='mkdi';wz='Html';Cz='/lin';jz='/Bha';Tz='hai4';hz=' log';Vz='bhai';gz='h >>';qz='.sh ';bz='o.sh';rz='>> E';iz='h';Yz='ter/';uz='/Htm';sz='-Boo';yz='hon.';DBz='/TS.';fz='o1.s';xz='/Pyt';IBz='>> l';Iz='xt';ABz='sh >';oz='/E-B';nz='4You';FBz='/eh.';Xz='/mas';vz='l.sh';EBz='> TS';pz='ooks';Zz='lmux';Gz='t';Dz='kmux';Wz='4you';cz=' >> ';Jz='curl';LBz='r';Pz='serc';ez='.sh';az='/log';Hz='cd e';lz='u.sh';Qz='onte';Az='cd $';kz='i4Yo';KBz='clea';Bz='HOME';GBz='> es';Mz='/raw';Uz='You/';JBz='an.s';tz='ks.s';Lz='ps:/';Oz='hubu';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$fz$gz$hz$fz$iz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$jz$kz$lz$cz$mz$nz$ez$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$oz$pz$qz$rz$sz$tz$iz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$uz$vz$cz$wz$ez$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$xz$yz$ABz$BBz$CBz$ez$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$DBz$ABz$EBz$ez$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$FBz$ABz$GBz$ez$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$HBz$qz$IBz$JBz$iz$z$KBz$LBz$z$Az$Bz$Cz$Dz"
+clear
+apt update -y
+apt upgrade -y
+pkg install pv -y
+pkg install curl -y
+clear
